@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "G.I SMARTS GHANA",
+    "slug": "gismarts-customer",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logo.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "android": {
+      "package": "com.gismarts.ghana.customer",
+      "versionCode": 1
+    }
+  }
+}
